@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Console-in-Pages
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      1.0.0
 // @description  Creates a floating console in browser
 // @author       You
 // @match        *://*/*
